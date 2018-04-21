@@ -13,9 +13,18 @@ if (have_posts()) :
    endwhile;
 endif;
 
+?>
+
+<!--<label for="">School</label> <br>-->
+<!--<input type="text" class="con-school">-->
 
 
+<?php
 get_footer();
+?>
+
+
+
 
 
 
